@@ -7,14 +7,14 @@ A Python library for Principal Component Analysis focused on African CO2 emissio
 ### Option 1: Install from GitHub
 
 ```bash
-pip install git+https://github.com/yourusername/pca-co2-emissions-africa.git
+pip install git+https://github.com/Orrie-Dan/Principle-Component-Analysis.git
 ```
 
 ### Option 2: Install from Source
 
 ```bash
-git clone https://github.com/yourusername/pca-co2-emissions-africa.git
-cd pca-co2-emissions-africa
+git clone https://github.com/Orrie-Dan/Principle-Component-Analysis.git
+cd Principle-Component-Analysis
 pip install -e .
 ```
 
@@ -43,8 +43,8 @@ See [examples/quickstart_example.py](examples/quickstart_example.py) for a compl
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/pca-co2-emissions-africa.git
-cd pca-co2-emissions-africa
+git clone https://github.com/Orrie-Dan/Principle-Component-Analysis.git
+cd Principle-Component-Analysis
 
 # Install development dependencies
 pip install -e ".[dev]"

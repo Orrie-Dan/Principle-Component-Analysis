@@ -11,7 +11,7 @@ setup(
     description="A Python library for PCA analysis of African CO2 emissions",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pca-co2-emissions-africa",
+    url="https://github.com/Orrie-Dan/Principle-Component-Analysis",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
